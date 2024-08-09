@@ -1,0 +1,2 @@
+﻿
+37.) Write a program in C# that asks the user for two numbers and shows the division and the rest of the division. Notify if 0 is entered as the second number and end if 0 is entered as the first number
